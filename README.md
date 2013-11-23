@@ -20,7 +20,7 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 
 ### Transcribed Slides
 
-:(
+- Cartoons and Creativity
 
 ### Un-transcribed Slides
 
@@ -30,7 +30,6 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 - How To Change the World with a Girl and a Computer
 - Teaching Our CSS To Play Nice
 - The Superhero's Guide to Avoiding Community Burnout
-- Cartoons and Creativity
 - Adventures in Prototyping
 - Redesigning the Interface
 - How To Not Be an Expert
