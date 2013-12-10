@@ -21,6 +21,7 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 ### Transcribed Slides
 
 - Cartoons and Creativity
+- How To Not Be an Expert (thank you to [mariemosley](https://github.com/mariemosley)!)
 
 ### Un-transcribed Slides
 
@@ -32,4 +33,3 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 - The Superhero's Guide to Avoiding Community Burnout
 - Adventures in Prototyping
 - Redesigning the Interface
-- How To Not Be an Expert
