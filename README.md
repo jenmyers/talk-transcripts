@@ -1,6 +1,6 @@
 ## Jen Myers • Talk Transcripts
 
-A repository of text transcripts for my slidedecks and recorded talks, collected at [jenmyers.net/speaking](http://jenmyers.net/speaking/). Currently in progress. If you want to help, I accept pull requests!
+A repository of text transcripts for my slidedecks and recorded talks, collected at [jenmyers.net/speaking](http://jenmyers.net/speaking/).
 
 ### Transcribed Video
 
@@ -8,15 +8,21 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 
 ### Un-transcribed Video
 
-- Unlocking the Clubhouse
-- Developers Can't Design
-- Straight-Up Design
+- Shepherding Unicorns
+- How To Not Be an Expert (2013)
+- How To Not Be an Expert (summer 2014)
+- How To Not Be an Expert (fall 2014)
 - How To Change the World with a Girl and a Computer
-- Teaching Our CSS To Play Nice
+- Redesigning the Interface
 - The Superhero's Guide to Avoiding Community Burnout
 - Adventures in Prototyping
-- Redesigning the Interface
-- How To Not Be an Expert
+- Straight-Up Design
+- Teaching Our CSS To Play Nice (2012)
+- Teaching Our CSS To Play Nice (2014)
+- Developers Can't Design (2013)
+- Developers Can't Design (late 2012)
+- Developers Can't Design (early 2012)
+- Unlocking the Clubhouse
 
 ### Transcribed Slides
 
@@ -25,11 +31,22 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 
 ### Un-transcribed Slides
 
-- Unlocking the Clubhouse
-- Developers Can't Design
-- Straight-Up Design
-- How To Change the World with a Girl and a Computer
-- Teaching Our CSS To Play Nice
+- Shepherding Unicorns
+- Owning It
+- How To Change the World with a Girl and a Computer (2012)
+- How To Change the World with a Girl and a Computer (2013)
+- Redesigning the Interface
 - The Superhero's Guide to Avoiding Community Burnout
 - Adventures in Prototyping
-- Redesigning the Interface
+- Straight-Up Design
+- Teaching Our CSS To Play Nice
+- Developers Can't Design (2013)
+- Developers Can't Design (late 2012)
+- Developers Can't Design (early 2012)
+- Unlocking the Clubhouse
+
+## How to Contribute
+
+If you would like to help transcribe, you can find links to videos and slidedecks at [jenmyers.net/speaking](http://jenmyers.net/speaking/). Please submit the link of the specific material you transcribe with a pull request so I can match it up correctly.
+
+Want some tips on submitting a pull request? [You can start with GitHub's guide](https://help.github.com/articles/using-pull-requests/).
