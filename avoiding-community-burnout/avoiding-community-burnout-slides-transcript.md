@@ -7,11 +7,13 @@ __Slide 2__
 How do you work for progress, change, and growth throughout a career without getting burned out?
 
 [Text in comic-style callout on top of a landscape with the silhouette of two superheroes in foreground]
+
 __Slide 3__
 
 Pay attention to the good
 
 [Text against a photo of six dogs in superhero costumes]
+
 __Slide 4__
 
 -Take care of friends
@@ -60,7 +62,7 @@ __Slide 11__
 
 Leave.
 
-[Text against a photo of a costumed Spiderman with a duffel bag and a young boy with a costume glove appearing to try to hitch a ride]
+[Text against a photo of a costumed Spider-Man with a duffel bag and a young boy with a costume glove appearing to try to hitch a ride]
 
 __Slide 12__
 
