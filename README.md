@@ -4,17 +4,17 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 
 ### Transcribed Video
 
+- Shepherding Unicorns (thank you to [wweliz](https://github.com/wweliz)!)
+- The Superhero's Guide to Avoiding Community Burnout (thank you to [FLGMwt](https://github.com/FLGMwt)!)
 - Cartoons and Creativity (thank you to [mariemosley](https://github.com/mariemosley)!)
 
 ### Un-transcribed Video
 
-- Shepherding Unicorns
 - How To Not Be an Expert (2013)
 - How To Not Be an Expert (summer 2014)
 - How To Not Be an Expert (fall 2014)
 - How To Change the World with a Girl and a Computer
 - Redesigning the Interface
-- The Superhero's Guide to Avoiding Community Burnout
 - Adventures in Prototyping
 - Straight-Up Design
 - Teaching Our CSS To Play Nice (2012)
@@ -26,17 +26,17 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 
 ### Transcribed Slides
 
+- Shepherding Unicorns (thank you to [wweliz](https://github.com/wweliz)!)
+- The Superhero's Guide to Avoiding Community Burnout (thank you to [FLGMwt](https://github.com/FLGMwt)!)
 - Cartoons and Creativity
 - How To Not Be an Expert (thank you to [mariemosley](https://github.com/mariemosley)!)
 
 ### Un-transcribed Slides
 
-- Shepherding Unicorns
 - Owning It
 - How To Change the World with a Girl and a Computer (2012)
 - How To Change the World with a Girl and a Computer (2013)
 - Redesigning the Interface
-- The Superhero's Guide to Avoiding Community Burnout
 - Adventures in Prototyping
 - Straight-Up Design
 - Teaching Our CSS To Play Nice
