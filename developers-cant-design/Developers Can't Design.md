@@ -1,4 +1,4 @@
-Developer's cant Understand Design (and other completey mistaken design myths)
+Developer's Can't Understand Design (and other completely mistaken design myths)
 ==============================================================================
 
 Software Craftmenship North America 2012
