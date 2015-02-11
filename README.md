@@ -4,6 +4,7 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 
 ### Transcribed Video
 
+- How To Not Be an Expert (fall 2014) (thank you to [4mcoulthurst](http://github.com/4mcoulthurst)!)
 - Shepherding Unicorns (thank you to [wweliz](https://github.com/wweliz)!)
 - The Superhero's Guide to Avoiding Community Burnout (thank you to [FLGMwt](https://github.com/FLGMwt)!)
 - Cartoons and Creativity (thank you to [mariemosley](https://github.com/mariemosley)!)
@@ -12,7 +13,6 @@ A repository of text transcripts for my slidedecks and recorded talks, collected
 
 - How To Not Be an Expert (2013)
 - How To Not Be an Expert (summer 2014)
-- How To Not Be an Expert (fall 2014)
 - How To Change the World with a Girl and a Computer
 - Redesigning the Interface
 - Adventures in Prototyping
